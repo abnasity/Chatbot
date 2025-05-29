@@ -1,0 +1,10 @@
+.productivity
+instance/
+
+*.pyc
+*.pyo
+*.pyd
+
+__pycache__/
+
+
